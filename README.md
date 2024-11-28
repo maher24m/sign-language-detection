@@ -20,7 +20,7 @@ This project is a pipeline for recognizing American Sign Language (ASL) gestures
 Before running the scripts, install the required libraries by running:
 
 ```bash
-pip install opencv-python mediapipe matplotlib numpy scikit-learn tensorflow
+pip install opencv-python mediapipe matplotlib numpy tensorflow
 ```
 
 ## 2. Dataset Creation
